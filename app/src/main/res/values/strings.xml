@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestSpinner</string>
+    <string-array name="names">
+        <item>sagor</item>
+        <item>khan</item>
+        <item>sabuj</item>
+        <item>Dhaka</item>
+        <item>Feni</item>
+        <item>Tangail</item>
+    </string-array>
+</resources>
